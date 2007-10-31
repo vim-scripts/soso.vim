@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2057
+
+This is a color scheme with light-gray background ideal for programming. Highlighted items have dark colors to please the eyes but provide enough contrast to distinguish between them.
+Vim7 highlight groups are supported, e.g. tab line, completion menu, spelling, and paren matching.
+Together with the ShowPairs plugin (vimscript #626) this color scheme provides highlighting for being inside matching parens (light green background) or exactly on a paren (emphasized light green background).
+Works for GUI and CTerm.
